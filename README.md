@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img src="https://github.com/ahmedaboutaib/ahmed/blob/main/datascience1.png" align="right" width="254"/>
+<img src="https://github.com/ahmedaboutaib/ahmed/blob/main/Monkey_Kid_Coding.gif" align="right" width="254"/>
 I am currently immersed in the world of <code>artificial intelligence</code> ⚡, <code>data science</code> ⚡, and <code>machine learning</code>, pursuing my passion for cutting-edge technologies. I am driven by a fascination with technologies centered around <code>artificial intelligence</code> ✨, <code>data science</code> ✨, and <code>machine learning</code>. Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully. My objective is to harness these technologies to develop innovative solutions that enhance individual experiences. Areas of particular interest include <code>artificial intelligence</code>, <code>data science</code>, and <code>machine learning</code>. Don't hesitate to contact me for inquiries related to these domains.
 
 
