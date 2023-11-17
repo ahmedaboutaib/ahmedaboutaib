@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img src="https://github.com/ahmedaboutaib/ahmed/blob/main/datascince.png" align="right" width="254"/>
+<img src="https://github.com/ahmedaboutaib/ahmed/blob/main/datascience1.png" align="right" width="254"/>
 I am currently immersed in the world of artificial intelligence ⚡, data science ⚡, and machine learning, pursuing my passion for cutting-edge technologies.
 Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully.
 Feel free to reach out with any questions about artificial intelligence, data science, and machine learning.
