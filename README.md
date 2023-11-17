@@ -35,10 +35,19 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5w2wE-T42QEnF0DGBoSqVAME9mLOZOLNMI8dVBwEK&s" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://assets-global.website-files.com/60ec34540d013784844d2ee2/61d42d538aec6733243470a7_Python-logo.png" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img-0.journaldunet.com/ASr11fwmusYYymlxOTYKrolkgmM=/1500x/smart/26ad7a53ec444aeb98f985150e80728e/ccmcms-jdn/11594379.png" />&nbsp;&nbsp;&nbsp;
+
 </p>
-<p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
+<p align="center">
+Langages de programmation : Python,
+Bibliothèques et cadres de travail : NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+Environnement de développement : Jupyter Notebooks
+Outils d'analyse de données : Tableau, Power BI
+Bases de données : MySQL, PostgreSQL, MongoDB
+Outils de gestion de versions : Git, GitHub
+Outils de conteneurisation et orchestration : Docker, 
+Services Cloud : Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP)
+</p>
 
 <hr>
