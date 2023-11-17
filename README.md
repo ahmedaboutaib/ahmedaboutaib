@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81R4-mXF2icCcn9ZjOqTkiLDN5gi98nCN-Q&usqp=CAU" align="right" width="254"/>
+
 
 # Hello, I am Ahmed Aboutaib 👋
 <p align="right">
@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
-I am currently immersed in the world of artificial intelligence, data science, and machine learning, pursuing my passion for cutting-edge technologies. Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully. Feel free to reach out with any questions about these domains.
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81R4-mXF2icCcn9ZjOqTkiLDN5gi98nCN-Q&usqp=CAU" align="right" width="254"/>
+I am currently immersed in the world of artificial intelligence,<h6> data science</h6>, and machine learning, pursuing my passion for cutting-edge technologies. Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully. Feel free to reach out with any questions about these domains.
 
 ---
 
