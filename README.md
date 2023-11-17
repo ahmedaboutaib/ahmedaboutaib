@@ -10,15 +10,7 @@
 </p>
 
 <img src="https://github.com/ahmedaboutaib/ahmed/blob/main/datascience1.png" align="right" width="254"/>
-I am currently immersed in the world of artificial intelligence ⚡, data science ⚡, and machine learning, pursuing my passion for cutting-edge technologies.
-Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully.
-Feel free to reach out with any questions about artificial intelligence, data science, and machine learning.
-
----
-I am driven by a fascination with technologies centered around artificial intelligence ✨, data science ✨, and machine learning. 
-My objective is to harness these technologies to develop innovative solutions that enhance individual experiences.
-Areas of particular interest include artificial intelligence, data science, and machine learning.
-Don't hesitate to contact me for inquiries related to these domains.
+I am currently immersed in the world of <span style="color: blue;">artificial intelligence</span> ⚡, data science ⚡, and machine learning, pursuing my passion for cutting-edge technologies. I am driven by a fascination with technologies centered around artificial intelligence ✨, data science ✨, and machine learning. Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully. My objective is to harness these technologies to develop innovative solutions that enhance individual experiences. Areas of particular interest include artificial intelligence, data science, and machine learning. Don't hesitate to contact me for inquiries related to these domains
 
 
 
