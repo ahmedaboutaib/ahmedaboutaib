@@ -1,6 +1,6 @@
 
 <h1 align="center">hello I am Ahmed Aboutaib 👋 </h1>
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/ahmed-aboutaib-085089265/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
