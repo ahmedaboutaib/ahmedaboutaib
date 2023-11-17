@@ -1,7 +1,6 @@
 
-
-# Hello, I am Ahmed Aboutaib 👋
-<p align="right">
+<h1 align="center">hello I am Ahmed Aboutaib 👋 </h1>
+<p align="center">
   <a href="https://www.linkedin.com/in/ahmed-aboutaib-085089265/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
@@ -9,12 +8,13 @@
     <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81R4-mXF2icCcn9ZjOqTkiLDN5gi98nCN-Q&usqp=CAU" align="right" width="254"/>
-I am currently immersed in the world of artificial intelligence,<h6> data science</h6>, and machine learning, pursuing my passion for cutting-edge technologies. Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully. Feel free to reach out with any questions about these domains.
+I am currently immersed in the world of artificial intelligence ⚡, data science ⚡, and machine learning, pursuing my passion for cutting-edge technologies. Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully. Feel free to reach out with any questions about artificial intelligence, data science, and machine learning.
 
 ---
+I am driven by a fascination with technologies centered around artificial intelligence ✨, data science ✨, and machine learning. My objective is to harness these technologies to develop innovative solutions that enhance individual experiences. Areas of particular interest include artificial intelligence, data science, and machine learning. Don't hesitate to contact me for inquiries related to these domains.
 
-I am driven by a fascination with technologies centered around artificial intelligence, data science, and machine learning. My objective is to harness these technologies to develop innovative solutions that enhance individual experiences. Areas of particular interest include artificial intelligence, data science, and machine learning. Don't hesitate to contact me for inquiries related to these domains.
 
 
 
