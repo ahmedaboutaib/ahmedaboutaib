@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="[https://github.com/mohamedabus rea/mohamedabus rea/blob/master/profile-ing.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_rLGqrIduC7c3WhZQCx6a6BuU6H6ewrcPA&usqp=CAU)" align="right" width="254"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_rLGqrIduC7c3WhZQCx6a6BuU6H6ewrcPA&usqp=CAU" align="right" width="254"/>
 I am currently immersed in the world of artificial intelligence ⚡, data science ⚡, and machine learning, pursuing my passion for cutting-edge technologies. Through my academic journey, I have cultivated expertise in these fields and continuously strive to contribute meaningfully. Feel free to reach out with any questions about artificial intelligence, data science, and machine learning.
 
 ---
