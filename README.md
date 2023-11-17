@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<img src="https://github.com/ahmedaboutaib/ahmed/blob/main/Monkey_Kid_Coding.gif" align='left' width="254"/>
+<img src="https://github.com/ahmedaboutaib/ahmed/blob/main/Monkey_Kid_Coding.gif" align='left' />
 
 
 
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 - 👯 I'm open to collaboration on projects related to artificial intelligence, data science, or machine learning.
 - 🤔 I'm looking for help and guidance in the areas of data structures and algorithms.
 - 💬 Feel free to ask me about artificial intelligence, data science, or machine learning.
-- 📫 You can reach me via [ahmadaboutaib@gmail.com].
+- 📫 You can reach me via [e-mail](mailto:ahmadaboutaib@gmail.com)
 - 🌐 Visit my [porfolio website](https://www.linkedin.com/in/ahmed-aboutaib-085089265/) for complete background and contact.
 
