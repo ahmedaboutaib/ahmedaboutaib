@@ -4,8 +4,8 @@
   <a href="https://www.linkedin.com/in/aboutaib/">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/aboutaib.ahmed/">
-    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=whitea"/>
+  <a href="https://www.instagram.com/aboutaib.ahmeda/">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
