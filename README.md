@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<img src="https://github.com/ahmedaboutaib/ahmedaboutaib/blob/main/Monkey_Kid_Coding.gif" align="left" width="280"/>
+<img src="https://github.com/ahmedaboutaib/ahmedaboutaib/blob/main/Monkey_Kid_Coding.gif" align="left" width="250"/>
 
 <br/><br/>
 
