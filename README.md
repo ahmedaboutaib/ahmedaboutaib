@@ -15,14 +15,14 @@
   </a>
 </p>
 
-<img
-  src="https://github.com/ahmedaboutaib/ahmedaboutaib/blob/main/Monkey_Kid_Coding.gif"
-  align="left"
-  width="280"
-  style="margin-right:25px; margin-bottom:10px;"
-/>
 
-<br/><br/>
+<!-- ===== IMAGE + ABOUT ME SECTION ===== -->
+<table>
+  <tr>
+    <td style="padding-right: 25px; vertical-align: top;">
+      <img src="https://github.com/ahmedaboutaib/ahmedaboutaib/blob/main/Monkey_Kid_Coding.gif" width="280"/>
+    </td>
+    <td>
 
 ### 🧠 About Me
 I’m an **Artificial Intelligence and Data Science Engineer** passionate about designing intelligent, modular, and scalable systems.  
@@ -35,6 +35,10 @@ I enjoy connecting theory with real-world applications, from satellite data proc
 - 🌍 Based in **Casablanca, Morocco**
 - 🗣️ Languages: Arabic • French • English  
 - 🤝 Open to collaborations and AI-driven projects
+
+  </td>
+  </tr>
+</table>
 
 ---
 
